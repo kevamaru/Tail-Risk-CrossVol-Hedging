@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/32158840/README.md)
 # Cross-Hedge Risk Dashboard — Distillate Trading
 
 A self-contained Python project stress-testing a **cross-hedge** (WTI
@@ -205,5 +206,3 @@ hedge_project/
 ## Tech
 
 Python — NumPy, Pandas, Matplotlib, SciPy, yfinance.
-#   T a i l - R i s k - C r o s s V o l - H e d g i n g  
- 
